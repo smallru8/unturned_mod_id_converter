@@ -1,0 +1,81 @@
+# 無法找到以下 Buak item id 的原版映射，如果有會影響模組運行的物品請在 map_pid_nid.txt 手動添加映射[MAP] default_id not found! Item: Birch Wood | 25302
+[MAP] default_id not found! Item: Birch Wood Bundle | 25303
+[MAP] default_id not found! Item: Maple Wood | 25304
+[MAP] default_id not found! Item: Maple Wood Bundle | 25305
+[MAP] default_id not found! Item: Pine Wood | 25306
+[MAP] default_id not found! Item: Pine Wood Bundle | 25307
+[MAP] default_id not found! Item: Poplar Wood | 25308
+[MAP] default_id not found! Item: Poplar Wood Bundle | 25309
+[MAP] default_id not found! Item: Scrap Metal | 25310
+[MAP] default_id not found! Item: Energy Cell | 25315
+[MAP] default_id not found! Item: White Dye | 25369
+[MAP] default_id not found! Item: Gas Can | 25378
+[MAP] default_id not found! Item: Car Battery | 25406
+[MAP] default_id not found! Item: Socket Wrench | 25409
+[MAP] default_id not found! Item: Car Jack | 25410
+[MAP] default_id not found! Item: Sawed-Off Masterkey | 25461
+[MAP] default_id not found! Item: Oakbear | 25468
+[MAP] default_id not found! Item: Tactical Flashlight | 25484
+[MAP] default_id not found! Item: Tactical Laser (Red) | 25485
+[MAP] default_id not found! Item: Tactical Rangefinder | 25486
+[MAP] default_id not found! Item: Bayonet (Combat Knife) | 25488
+[MAP] default_id not found! Item: Bayonet (Bowie Knife) | 25489
+[MAP] default_id not found! Item: Bayonet (Carving Knife) | 25490
+[MAP] default_id not found! Item: Bayonet (Kitchen Knife) | 25491
+[MAP] default_id not found! Item: Bayonet (Fork) | 25492
+[MAP] default_id not found! Item: Muzzle | 25496
+[MAP] default_id not found! Item: Makeshift Sights | 25506
+[MAP] default_id not found! Item: Swift Magazine | 25514
+[MAP] default_id not found! Item: Fork | 25590
+[MAP] default_id not found! Item: Spoon | 25591
+[MAP] default_id not found! Item: Spork | 25592
+[MAP] default_id not found! Item: Broom | 25606
+[MAP] default_id not found! Item: Paintbrush | 25607
+[MAP] default_id not found! Item: Branch | 25611
+[MAP] default_id not found! Item: Sentry Gun | 25651
+[MAP] default_id not found! Item: Pizza Slice | 25660
+[MAP] default_id not found! Item: Egg | 25686
+[MAP] default_id not found! Item: Chocolate | 25687
+[MAP] default_id not found! Item: Popcorn | 25731
+[MAP] default_id not found! Item: Generator | 25816
+[MAP] default_id not found! Item: Poplar Spikes | 25823
+[MAP] default_id not found! Item: Sandbags | 25827
+[MAP] default_id not found! Item: Black Cot | 25861
+[MAP] default_id not found! Item: White Cot | 25868
+[MAP] default_id not found! Item: Glass | 25882
+[MAP] default_id not found! Item: Mailbox | 25890
+[MAP] default_id not found! Item: Birch Triangular Floor | 25929
+[MAP] default_id not found! Item: Birch Triangular Roof | 25939
+[MAP] default_id not found! Item: Birch Stairs Roof | 25940
+[MAP] default_id not found! Item: Birch Triangular Hole | 25943
+[MAP] default_id not found! Item: Maple Triangular Floor | 25957
+[MAP] default_id not found! Item: Maple Triangular Roof | 25967
+[MAP] default_id not found! Item: Maple Stairs Roof | 25968
+[MAP] default_id not found! Item: Maple Triangular Hole | 25971
+[MAP] default_id not found! Item: Pine Triangular Floor | 25985
+[MAP] default_id not found! Item: Pine Triangular Roof | 25995
+[MAP] default_id not found! Item: Pine Stairs Roof | 25996
+[MAP] default_id not found! Item: Pine Triangular Hole | 25999
+[MAP] default_id not found! Item: Poplar Triangular Floor | 26013
+[MAP] default_id not found! Item: Birch Triangular Roof | 26023
+[MAP] default_id not found! Item: Poplar Triangular Hole | 26027
+[MAP] default_id not found! Item: Stone Triangular Floor | 26041
+[MAP] default_id not found! Item: Stone Garage | 26042
+[MAP] default_id not found! Item: Stone Triangular Roof | 26050
+[MAP] default_id not found! Item: Stone Triangular Hole | 26055
+[MAP] default_id not found! Item: Oxygen Tank | 26135
+[MAP] default_id not found! Item: Jeans | 26294
+[MAP] default_id not found! Item: Aviator Jacket | 26588
+[MAP] default_id not found! Item: Traffic Cone | 26703
+[MAP] default_id not found! Item: Police Hat | 26704
+[MAP] default_id not found! Item: Riot Helmet | 26706
+[MAP] default_id not found! Item: Santa Hat | 26730
+[MAP] default_id not found! Item: God Aviators | 26753
+[MAP] default_id not found! Item: Round Glasses | 26755
+[MAP] default_id not found! Item: Gas Mask | 26767
+[MAP] default_id not found! Item: Pink Balaclava | 26785
+[MAP] default_id not found! Item: Riot Vest | 26803
+[MAP] default_id not found! Item: Makeshift Vest | 26833
+[MAP] default_id not found! Item: Birch Rectangle Table | 27519
+[MAP] default_id not found! Item: Maple Rectangle Table | 27520
+[MAP] default_id not found! Item: Pine Rectangle Table | 27521
